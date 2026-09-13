@@ -1,23 +1,33 @@
-# Projeto PAW — API REST com Banco de Dados
+# 🔌 API REST PHP + MySQL
 
-Projeto acadêmico desenvolvido para o segundo bimestre da disciplina de PAW, com foco na construção de uma API REST integrada a um banco de dados relacional. A proposta aplica conceitos de organização de software, persistência de dados e implementação de regras de negócio.
+API REST desenvolvida em **PHP** para gerenciamento de dados relacionais, implementando CRUD completo, validações e organização do código com os padrões MVC e DAO.
 
-## Funcionalidades
+## 🚀 Funcionalidades
 
-- **CRUD completo:** criação, consulta, atualização e exclusão de registros das entidades principais.
-- **Relacionamento entre entidades:** banco de dados estruturado com pelo menos cinco tabelas relacionadas.
-- **Validação de dados:** regras de negócio para impedir registros inválidos e duplicidades.
-- **Comunicação em JSON:** endpoints que recebem e retornam informações de forma padronizada.
-- **Operações HTTP:** utilização de `GET`, `POST`, `PUT/PATCH` e `DELETE` conforme a finalidade de cada endpoint.
+- Criação, consulta, atualização e exclusão de registros
+- Relacionamentos entre entidades no banco de dados
+- Validação de dados e regras de negócio
+- Requisições e respostas em JSON
+- Métodos HTTP GET, POST, PUT/PATCH e DELETE
 
-## Organização do projeto
+## 🏗️ Organização
 
-A aplicação utiliza o padrão MVC para organizar as responsabilidades do sistema e o padrão DAO para concentrar as operações de acesso ao banco de dados. Essa estrutura facilita a manutenção do código e a separação entre as regras de negócio e a persistência das informações.
+A aplicação utiliza **MVC** para separar responsabilidades e **DAO** para concentrar as operações de acesso ao banco de dados.
 
-## Testes da API
+## 🛠️ Tecnologias e conceitos
 
-Os endpoints podem ser testados pelo Insomnia, permitindo executar requisições, conferir as respostas e verificar a integração com o banco de dados.
+PHP • MySQL • API REST • JSON • MVC • DAO • Composer
 
-## Objetivo
+## 🧪 Testes
 
-Praticar o desenvolvimento de APIs REST, a modelagem de bancos de dados relacionais e a organização do código com MVC e DAO, construindo uma aplicação com operações de gerenciamento e validação de dados.
+Os endpoints podem ser testados com ferramentas como Insomnia ou Postman.
+
+## 🎯 Objetivo
+
+Praticar desenvolvimento de APIs REST, modelagem de banco de dados relacional e organização de aplicações back-end.
+
+Projeto desenvolvido durante a disciplina de PAW.
+
+---
+
+Desenvolvido por **Vitor Hens**.
