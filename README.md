@@ -50,8 +50,8 @@ Os endpoints e exemplos de requisições estão documentados em [`API.md`](./API
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/VitorHens/projeto-paw-api-rest.git
-cd projeto-paw-api-rest
+git clone https://github.com/VitorHens/api-rest-php-mysql.git
+cd api-rest-php-mysql
 ```
 
 ### 2. Instale as dependências
